@@ -1,4 +1,4 @@
-<img align = "right" alt= "coding" width ="500" padding = "0 0 0 10px" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<img align = "right" alt= "coding" width ="400"  src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on FunctionUp As a React Developer Trainee<br>👯 I’m looking to collaborate on ReactJs FrontEnd Project . Reachout my website https://jayportfolio0.netlify.app<br>🤝 I’m looking for help with good career opportunity.<br>🌱 I’m currently learning PHP , MSQL .<br>💬 Ask me about React , JS , CSS<br>⚡ Fun fact I think I am Funny
