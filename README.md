@@ -1,7 +1,7 @@
 <img align = "right" alt= "coding" width ="400"  src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on FunctionUp As a React Developer Trainee<br>👯 I’m looking to collaborate on ReactJs FrontEnd Project . Reachout my website https://jayportfolio0.netlify.app<br>🤝 I’m looking for help with good career opportunity.<br>🌱 I’m currently learning PHP , MSQL .<br>💬 Ask me about React , NextJs, JS , CSS<br>⚡ Fun fact I think I am Funny
+🔭 I'm a React Developer with 2 years and 4 months of experience. Previously worked at <strong>YoloBus, an EaseMyTrip.com Company</strong> and <strong>FunctionUp</strong>.<br>👯 I’m looking to collaborate on ReactJs FrontEnd Project . Reachout my website https://jayportfolio0.netlify.app<br>🤝 I’m looking for help with good career opportunity.<br>🌱 I’m currently learning PHP , MSQL .<br>💬 Ask me about React , NextJs, JS , CSS<br>⚡ Fun fact I think I am Funny
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janamjay-kumar-7255a0210/) 
